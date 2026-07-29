@@ -1,13 +1,3 @@
-# Capstone Project: Automated Quiz & Assignment Portal
-**Author:** ADJAGBA Sousso Esso-Solam Fortuné  
-**EdX Username:** adjagbafortune  
-**GitHub Username:** adjagbafortune  
-**Location:** Lomé, Togo  
-**Date:** June 2026  
-
-**Video Demonstration:** https://www.youtube.com/watch?v=ZD6zAfPPOts
-
-
 ## Overview
 This project contains a Django REST API on the backend and a React application on the frontend. I call this the Assignment App. The platform allows users to sign up and log in to their accounts securely. Teachers can create interactive quizzes and assign choices along with the correct answers. Students can answer these quizzes and instantly view their results by navigating to their profile page. 
 
@@ -17,11 +7,6 @@ This project contains a Django REST API on the backend and a React application o
 
 ### Distinctiveness
 This capstone project is an advanced Educational Quiz & Assignment Platform built using a completely decoupled architecture: Django REST Framework (DRF) as a headless backend API and React with Redux as a Single Page Application (SPA) frontend.
-
-This application is fundamentally distinct from all previous projects in the CS50W course:
-* Unlike **Project 1 (Wiki)** or **Project 2 (Commerce)**, it does not rely on Django's server-side rendering or standard HTML forms. It processes everything via asynchronous JSON payloads.
-* Unlike **Project 3 (Mail)**, which utilized vanilla JavaScript with a pre-built API, this project features a fully custom-built backend REST API designed from scratch to serve dynamic relational data.
-* Unlike **Project 4 (Network)**, which focuses on social interactions, this portal is specialized for e-learning workflows. It handles the creation of quizzes, automated grading, and instant result checking. 
 
 <img src="./static_img/Quiz_Creation_Interface_Professor.png" alt="Quiz_Creation_Interface_Professor.png/"> <br>
 
