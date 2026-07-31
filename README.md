@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://img.shields.io/github/last-commit/adjagbafortune/assignment-app?style=for-the-badge">
+<img src="https://img.shields.io/github/v/release/adjagbafortune/assignment-app?include_prereleases&style=for-the-badge">
+<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fruss-chatgpt.netlify.app%2F">
+<img src="https://img.shields.io/github/stars/adjagbafortune/assignment-app?style=for-the-badge">
+<img src="https://img.shields.io/github/license/adjagbafortune/assignment-app?style=for-the-badge">
+</div>
+   
 ## Overview
 This project contains a Django REST API on the backend and a React application on the frontend. I call this the Assignment App. The platform allows users to sign up and log in to their accounts securely. Teachers can create interactive quizzes and assign choices along with the correct answers. Students can answer these quizzes and instantly view their results by navigating to their profile page. 
 
@@ -96,3 +104,11 @@ To build the frontend for deployment, run:
 ```
 npm run build
 ```
+### :copyright: Design and Development, Fortuné ADJAGBA
+
+<a href="https://www.linkedin.com/in/sousso-esso-s-f-adjagba/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/adjagbafortune">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a><br>  
