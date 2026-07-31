@@ -113,6 +113,8 @@ To build the frontend for deployment, run:
 ```
 npm run build
 ```
+*Note: This is Version 1.0 (MVP). The core architecture (Django/React) is fully functional. Major UI redesigns and new features are planned in the upcoming roadmap.*
+
 #### :copyright: Design and Development, Fortuné ADJAGBA
 
 <a href="https://www.linkedin.com/in/sousso-esso-s-f-adjagba/">
