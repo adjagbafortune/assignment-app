@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/adjagbafortune/assignment-app?style=for-the-badge">
-<img src="https://img.shields.io/github/v/release/adjagbafortune/assignment-app?include_prereleases&style=for-the-badge">
-<img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fruss-chatgpt.netlify.app%2F">
+<img src="https://img.shields.io/badge/version-1.0.0--beta-blue?style=for-the-badge">
+<a href="VOTRE_LIEN_YOUTUBE_ICI"><img src="https://img.shields.io/badge/YouTube-View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <img src="https://img.shields.io/github/stars/adjagbafortune/assignment-app?style=for-the-badge">
 <img src="https://img.shields.io/github/license/adjagbafortune/assignment-app?style=for-the-badge">
 </div>
@@ -25,8 +25,17 @@ The technical complexity of this application spans across backend database logic
 3. **React & Redux Integration:** The frontend handles deep state tracking using Redux, Redux-Thunk, and Axios. User authentication states, assignment listings, and interactive forms are managed through a global store. 
 4. **Mobile Responsiveness:** The user interface was designed with React JS and incorporates responsive design libraries (like Bootstrap and Ant Design) to ensure the web application works perfectly on mobile viewports.
 
-## File Directory Map
+## File Directory Map and Tech Stack
 
+<ul>
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://react-redux.js.org/"><img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=Redux&logoColor=white"></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+</ul>
+
+<br>
 Here is the complete breakdown of the application components and files designed for this project:
 
 ### Frontend Architecture (`src/`)
@@ -109,6 +118,7 @@ npm run build
 <a href="https://www.linkedin.com/in/sousso-esso-s-f-adjagba/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/adjagbafortune">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a><br>  
+<a href="https://opencollective.com/assignment-app">
+  <img src="https://img.shields.io/badge/Open_Collective-297EE8?style=for-the-badge&logo=opencollective&logoColor=white">
+</a>
+<br>
