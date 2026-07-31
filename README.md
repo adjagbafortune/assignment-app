@@ -104,7 +104,7 @@ To build the frontend for deployment, run:
 ```
 npm run build
 ```
-### :copyright: Design and Development, Fortuné ADJAGBA
+#### :copyright: Design and Development, Fortuné ADJAGBA
 
 <a href="https://www.linkedin.com/in/sousso-esso-s-f-adjagba/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
