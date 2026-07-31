@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.shields.io/github/last-commit/adjagbafortune/assignment-app?style=for-the-badge">
 <img src="https://img.shields.io/badge/version-1.0.0--beta-blue?style=for-the-badge">
-<a href="VOTRE_LIEN_YOUTUBE_ICI"><img src="https://img.shields.io/badge/YouTube-View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/watch?v=ZD6zAfPPOts"><img src="https://img.shields.io/badge/YouTube-View_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <img src="https://img.shields.io/github/stars/adjagbafortune/assignment-app?style=for-the-badge">
 <img src="https://img.shields.io/github/license/adjagbafortune/assignment-app?style=for-the-badge">
 </div>
@@ -27,13 +27,13 @@ The technical complexity of this application spans across backend database logic
 
 ## File Directory Map and Tech Stack
 
-<ul>
+<div>
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://react-redux.js.org/"><img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=Redux&logoColor=white"></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-</ul>
+</div>
 
 <br>
 Here is the complete breakdown of the application components and files designed for this project:
